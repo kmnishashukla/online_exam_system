@@ -1,0 +1,27 @@
+user
+name -saroj
+pass- 22222
+
+-------------------------------------
+
+prshant
+admin
+name- nishu
+11111
+
+
+
+test
+name
+nisha 
+pwd   automaticaly
+
+c programming
+Group Token: x{nKU2Eb~w~vEn7Bv6~Lx1F3cBQ6aF
+
+
+
+user
+shivi
+11111
+
